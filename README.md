@@ -1,4 +1,4 @@
-Unscented Kalman Filter
+# Unscented Kalman Filter
 Sensor Fusion UKF Highway Project Starter Code
 
 <img src="media/ukf_highway_tracked.gif" width="700" height="400" />
